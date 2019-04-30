@@ -78,14 +78,14 @@ At the PyCon 2016 conference, I taught a **3-hour tutorial** that builds upon th
 
 Here are the topics I covered:
 
-1. Model building in scikit-learn (refresher)
-2. Representing text as numerical data
-3. Reading a text-based dataset into pandas
-4. Vectorizing our dataset
-5. Building and evaluating a model
-6. Comparing models
-7. Examining a model for further insight
-8. Practicing this workflow on another dataset
-9. Tuning the vectorizer (discussion)
+1. Model building in scikit-learn (refresher).
+2. Representing text as numerical data.
+3. Reading a text-based dataset into pandas.
+4. Vectorizing our dataset.
+5. Building and evaluating a model.
+6. Comparing models.
+7. Examining a model for further insight.
+8. Practicing this workflow on another dataset.
+9. Tuning the vectorizer (discussion).
 
 Visit this [GitHub repository](https://github.com/justmarkham/pycon-2016-tutorial) to access the tutorial notebooks and many other recommended resources.
